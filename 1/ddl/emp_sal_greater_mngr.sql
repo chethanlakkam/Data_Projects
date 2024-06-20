@@ -1,0 +1,1 @@
+create or replace table P01_EMP.EMP_PROC.emp_sal_greater_mngr(Essn varchar(9),salary decimal(10,2),Super_ssn varchar(9),Super_ssn_Salary decimal(10,2));

@@ -1,0 +1,2 @@
+DEPT_NAME|DEPT_NO|NO_OF_EMP
+Headquarters|1|1
